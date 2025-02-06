@@ -60,6 +60,8 @@ Installation & Running the Project
 
 https://wordlefusion.netlify.app 
 
+### Installation & Running the Project
+
 Install dependencies:
 
 npm install

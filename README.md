@@ -83,6 +83,3 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 ### License
 
 This project is licensed under the MIT License.
-
-### Photos and Videos 
-
